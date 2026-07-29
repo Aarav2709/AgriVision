@@ -110,18 +110,6 @@ The results should not be considered a definitive diagnosis or a replacement for
 
 Users should consult qualified agricultural experts before making important decisions about crop treatment or management.
 
-## Future Improvements
-
-Future versions of Agri Vision could include:
-
-- Regional language support
-- Voice-based guidance
-- Support for additional crops and diseases
-- Improved disease detection accuracy
-- Offline and low-connectivity support
-- Integration with local agricultural experts
-- Mobile application support
-
 ## License
 
 This project is intended for educational and demonstration purposes.
