@@ -4,6 +4,8 @@ Agri Vision is a simple crop health classification application that uses a pre-t
 
 The application is designed to give farmers a quick preliminary assessment of crop health and provide simple guidance based on the detected condition.
 
+All the work was done by me and my teammate, Ajohn, we just did it on the school computer so the PR was required.
+
 https://github.com/user-attachments/assets/d34747e4-0481-42de-b469-03e264ff1c39
 
 ## Features
