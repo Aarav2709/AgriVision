@@ -112,6 +112,8 @@ Agri Vision provides an AI-based preliminary assessment of crop health.
 
 The results should not be considered a definitive diagnosis or a replacement for professional agricultural advice.
 
+> Since it was for an Inter School Competition, I don't wanna make more changes, thus I am archiving it.
+
 Users should consult qualified agricultural experts before making important decisions about crop treatment or management.
 
 ## License
